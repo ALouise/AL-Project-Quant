@@ -8,18 +8,20 @@
 ## 🛠️ Technical Skills  
 
 - **Programming**: Python, C, Java, SQL, Matlab  
-- **Finance**: Derivatives pricing, quantitative modeling, market microstructures  
+- **Finance**: Derivatives pricing, quantitative modeling,  
 - **Tools**: Microsoft Office Suite, backtesting frameworks  
 
 ---
 
 ## 🌟 Featured Projects  
 
-- **Option Pricing in VBA**  
-   - Designed a robust pricing tool for vanilla and compound options, leveraging the Black-Scholes-Merton model for accuracy and efficiency.
+- **Vanilla and Compound Option Pricing with BSM**  
+   - Developed a comprehensive pricing tool for vanilla and compound options, ensuring accuracy and efficiency using the Black-Scholes-Merton framework
 
-- **Quant Backtester in Python**  
-   - Created a custom backtesting framework from the ground up, prioritizing performance, flexibility, and ease of strategy implementation.
+- **Exotic Option Pricing with Monte-Carlo simulation**  
+   - Designed a simulation-based pricing model for exotic options, focusing on flexibility and precision in handling complex financial instruments
+- **Backtesting a Strategy Based on Moving Averages**  
+   - Built a tailored backtesting framework to evaluate and optimize a moving average-based trading strategy, emphasizing performance and adaptability
 
 ---
 
