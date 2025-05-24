@@ -1,19 +1,19 @@
 # Anne-Louise Rigole  
 
-🎓 **MSc in Financial Engineering @ ISAE-SUPAERO**  
-🌍 **Aspiring Quantitative Finance Professional** with a strong passion for financial modeling, data analysis, and quantitative strategies.
+ **MSc in Financial Engineering @ ISAE-SUPAERO**  
+ **Aspiring Quantitative Finance Professional** with a strong passion for financial modeling, data analysis, and quantitative strategies.
 
 ---
 
 ## 🛠️ Technical Skills  
 
-- **Programming**: Python, C, Java, SQL, Matlab  
+- **Programming**: Python, C, C#, Java, SQL, Matlab  
 - **Finance**: Derivatives pricing, quantitative modeling,  
 - **Tools**: Microsoft Office Suite, backtesting frameworks  
 
 ---
 
-## 🌟 Featured Projects  
+## Featured Projects  
 
 - **Vanilla and Compound Option Pricing with BSM**  
    - Developed a comprehensive pricing tool for vanilla and compound options, ensuring accuracy and efficiency using the Black-Scholes-Merton framework
@@ -25,9 +25,9 @@
 
 ---
 
-## 🎯 Interests  
+## Interests  
 
-- **Finance**: Quantitative trading, algorithmic strategies, asset pricing  
+- **Finance**: Quantitative trading, algorithmic strategies
 - **Data Science**: Machine learning in finance, statistical modeling, advanced analytics  
 
 
